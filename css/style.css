@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ul,
+li,
+a {
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+}
+/*======== common start=-=-======-= */
+#assainment{
+    margin-top: 5%;
+}
+.bannar-1{
+    height: 10vh;
+    background-color: aqua;
+}
+.bannar-2{
+    height: 10vh;
+    background-color: aqua;
+    margin-top: 20px;
+}
+.bannar-3{
+    height: 15vh;
+    background-color: green;
+    margin-top: 20px;
+}
+.bannar-4{
+    height: 10vh;
+    background-color: rgb(121, 3, 68);
+    margin-top: 20px;
+}
+.bannar-5{
+    height: 22vh;
+    background-color: rgb(255, 175, 3);
+    margin-top: 20px;
+}
+.bannar-6{
+    height: 5vh;
+    background-color:red;
+    margin-top: 20px;
+}
+.bannar-7{
+    height: 10vh;
+    background-color:grey;
+    margin-top: 20px;
+}
+.bannar-8{
+    height: 10vh;
+    background-color:rgb(194, 178, 76);
+    margin-top: 20px;
+}
+.bannar-9{
+    height: 22vh;
+    background-color:rgb(30, 1, 174);
+    margin-top: 20px;
+}
+.bannar-10{
+    height: 10vh;
+    background-color:rgb(255, 0, 179);
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+footer{
+    margin-bottom: 10%;
+}

@@ -1,0 +1,34 @@
+@media(max-width:1399px){
+
+
+
+
+}
+
+
+@media(max-width:1200px) {
+
+
+}
+/* =======Desktop view ==========*/
+@media(max-width:991px) {
+
+}
+/* =======laptop view ==========*/
+@media(max-width:767px){
+
+    #hidden{
+        display: none;
+    }
+}
+/*======= tablet view ==========*/
+@media(max-width:576px) {
+    #hidden{
+        display: none;
+    }
+    .bannar-5{
+        display: none;
+    }
+/* home page start */
+}
+/*======= MObile view ==========*/
